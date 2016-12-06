@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>defraggler</id>
+    <title>Defraggler</title>
+    <version>2.13</version>
+    <authors>Piriform</authors>
+    <owners>devious</owners>
+    <summary>Use Defraggler to defrag your entire hard drive, or individual files - unique in the industry.</summary>
+    <description>Use Defraggler to defrag your entire hard drive, or individual files - unique in the industry. This compact and portable Windows application supports NTFS and FAT32 file systems. This will install Defraggler (without the Yahoo! toolbar) on your system!</description>
+    <projectUrl>http://www.piriform.com/defraggler</projectUrl>
+    <tags>defragment defrag</tags>
+    <licenseUrl>http://www.piriform.com/legal/software-license/defraggler</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://static.piriform.com/pf/icon/df_48.png</iconUrl>
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+  </metadata>
+</package>
