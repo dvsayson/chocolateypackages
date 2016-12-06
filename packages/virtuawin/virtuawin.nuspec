@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>virtuawin</id>
+    <title>VirtuaWin</title>
+    <version>4.4</version>
+    <authors>VirtuaWin</authors>
+    <owners>devious</owners>
+    <summary>VirtuaWin is a virtual desktop manager for Windows.</summary>
+    <description>VirtuaWin is a virtual desktop manager for the Windows operating system (Win9x/ME/NT/Win2K/XP/Win2003/Vista/Win7). A virtual desktop manager lets you organize applications over several virtual desktops (also called 'workspaces'). Virtual desktops are very common in Unix/Linux, and once you get accustomed to using them, they become an essential part of a productive workflow.
+	VirtuaWin is designed to be simple and elegant to use yet still be highly configurable and extensible.</description>
+    <projectUrl>http://virtuawin.sourceforge.net/</projectUrl>
+    <tags>virtual desktop workspaces</tags>
+    <licenseUrl>http://www.gnu.org/licenses/gpl.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://virtuawin.sourceforge.net/img/misc/vw_icon34x34.png</iconUrl>
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+  </metadata>
+</package>

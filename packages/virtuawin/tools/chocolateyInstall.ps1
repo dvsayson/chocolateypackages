@@ -1,0 +1,3 @@
+if (Get-Process 'VirtuaWin' -ea SilentlyContinue) {Stop-Process -processname VirtuaWin}
+if (Get-Process 'WinList' -ea SilentlyContinue) {Stop-Process -processname WinList}
+Install-ChocolateyPackage 'virtuawin' 'EXE' '/SILENT' 'http://downloads.sourceforge.net/project/virtuawin/VirtuaWin/4.4/VirtuaWin_setup_4.4.exe?r=http%3A%2F%2Fvirtuawin.sourceforge.net%2Fdownloads.php&ts=1351689912&use_mirror=hivelocity'
